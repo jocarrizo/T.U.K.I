@@ -1,0 +1,37 @@
+{
+	"settings": { 
+		"debug.onTaskErrors": "abort", 
+		"files.associations": {
+			"*.h": "c",
+			"cmath": "c",
+			"limits": "c",
+			"buffer": "c",
+			"manejo_de_filesystem": "c"
+		}, 
+		"C_Cpp.errorSquiggles": "enabled", 
+	}, 
+    "folders": [
+		{
+			"path": "consola"
+		},
+		{
+			"path": "cpu"
+		},
+		{
+			"path": "filesystem"
+		},
+		{
+			"path": "kernel"
+		},
+		{
+			"path": "memoria"
+		},
+		{
+			"path": "shared"
+		}
+	],
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	}
+}
